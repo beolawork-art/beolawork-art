@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello! I'm Olaitan, an aspiring Data Scientist dedicated to translating complex datasets into actionable, human-centered insights.
 
 <!--
 **beolawork-art/beolawork-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
