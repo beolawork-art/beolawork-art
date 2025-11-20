@@ -20,6 +20,7 @@ Hello, I'm Olaitan. I am currently transitioning into Data Science, strategicall
 ## 🔗 Connect with Me
 
  **LinkedIn:** Olaitan Bello (www.linkedin.com/in/olaitanbello)
+ **Email:** beola.work@gmail.com
 
 ## 🛠️ My Data Science Toolkit
 
